@@ -23,7 +23,7 @@
 • #الكود ↙️:- 
 
 ```
-sudo apt-get update && git clone https://github.com/kekobot/botlua.git && cd botlua && sudo chmod 777 botlua.sh && ./botlua.sh
+sudo apt-get update && git clone https://github.com/ahmed19931/botlua11.git && cd botlua && sudo chmod 777 botlua.sh && ./botlua.sh
 ```
 
 
